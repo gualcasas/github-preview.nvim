@@ -64,7 +64,7 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@typescript-eslint/eslint-plugin": "^8.19.0",
-    "@typescript-eslint/parser": "^8.19.0",
+    "@typescript-eslint/parser": "^8.25.0",
     "@vitejs/plugin-react-swc": "^3.7.2",
     "autoprefixer": "^10.4.20",
     "commitizen": "^4.3.1",
